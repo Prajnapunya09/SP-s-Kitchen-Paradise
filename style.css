@@ -1,0 +1,150 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: #ffcc00;
+  font-style: italic;
+  padding: 10px;
+  letter-spacing: 2px;
+}
+
+marquee {
+  background-color: #222;
+  padding: 10px;
+}
+
+.slide img {
+  width: 250px;
+  height: 180px;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+form {
+  background-color: #111;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 500px;
+  margin: 30px auto;
+  padding: 25px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+}
+
+label {
+  font-size: 1.2em;
+  color: #ffcc00;
+}
+
+select {
+  margin-top: 15px;
+  width: 80%;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #fafafa;
+  border: none;
+  color: #333;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn1 {
+  background-color: #32cd32;
+  color: black;
+}
+
+.btn2 {
+  background-color: #e63946;
+  color: white;
+}
+
+.btn1:hover {
+  background-color: #28a745;
+}
+
+.btn2:hover {
+  background-color: #c53030;
+}
+
+optgroup {
+  font-weight: bold;
+  background-color: #e0d4fc;
+  color: #000;
+}
+
+option {
+  background-color: #fafafa;
+  color: #000;
+}
+
+.item-display {
+  margin-top: 20px;
+}
+
+.item-display .price {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: #ffcc00;
+}
+
+footer {
+  background-color: #111;
+  padding: 15px;
+  font-size: 0.9em;
+  color: #bbb;
+  margin-top: 30px;
+}
+
+.notification {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: #333;
+  color: #fff;
+  padding: 15px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  z-index: 9999;
+  opacity: 0.95;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  animation: slideIn 0.5s ease;
+}
+
+.notification.success {
+  background-color: #28a745;
+}
+
+.notification.error {
+  background-color: #e63946;
+}
+
+@keyframes slideIn {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+
+@media (max-width: 600px) {
+  .slide img {
+    width: 150px;
+    height: 120px;
+  }
+  form {
+    width: 95%;
+  }
+}
