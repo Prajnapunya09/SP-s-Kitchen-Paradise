@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SP's Kitchen Paradise</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <marquee bgcolor="lightgrey" scrollamount="7">
+    <h1>🍴 SP'S KITCHEN PARADISE 🍴</h1>
+  </marquee>
+
+  <div class="slide">
+    <marquee direction="left" scrollamount="6">
+      <img src="https://tse4.mm.bing.net/th/id/OIP.r6T2zRnyrrP8LdtOEaGVowHaGl?pid=Api&P=0&h=180" />
+      <img src="https://tse3.mm.bing.net/th/id/OIP.eOrm2jVAm5yphOxotOTnvQHaFj?pid=Api&P=0&h=180" />
+      <img src="https://tse3.mm.bing.net/th/id/OIP.K7-S5d3uExKZlXabRtrfowHaE8?pid=Api&P=0&h=180" />
+      <img src="https://tse1.mm.bing.net/th/id/OIP.fnEZNcRL7TkoocBxTIvVygHaEJ?pid=Api&P=0&h=180" />
+      <img src="https://tse4.mm.bing.net/th/id/OIP.r6T2zRnyrrP8LdtOEaGVowHaGl?pid=Api&P=0&h=180" />
+    </marquee>
+  </div>
+
+  <form id="menuForm">
+    <label for="food">OUR MENU HERE 👇</label><br /><br />
+    <select name="food" id="food" required>
+      <option value="">Select Items</option>
+      <optgroup label="🍽️ South Indian Starters">
+        <option>Mini Idli Chaat</option>
+        <option>Medu Vada with Coconut Chutney</option>
+        <option>Paneer Pepper Fry</option>
+      </optgroup>
+      <optgroup label="🍽️ North Indian Starters">
+        <option>Paneer Tikka</option>
+        <option>Hara Bhara Kabab</option>
+      </optgroup>
+      <optgroup label="🍽️ South Indian Mains">
+        <option>Masala Dosa with Sambhar</option>
+        <option>Kerala Appam with Vegetable Stew</option>
+      </optgroup>
+      <optgroup label="🍽️ North Indian Mains">
+        <option>Dal Makhni</option>
+        <option>Butter Chicken</option>
+      </optgroup>
+      <optgroup label="🍨 Desserts">
+        <option>Gulab Jamun</option>
+        <option>Rasmalai</option>
+      </optgroup>
+    </select>
+
+    <div class="item-display" id="itemDisplay"></div>
+    <br />
+    <button class="btn1" type="submit">Confirm</button>
+    <button class="btn2" type="reset">Cancel</button>
+  </form>
+
+  <footer>© 2025 SP’s Kitchen Paradise | Designed with ❤️ by Prajna</footer>
+  <script src="script.js"></script>
+</body>
+</html>
