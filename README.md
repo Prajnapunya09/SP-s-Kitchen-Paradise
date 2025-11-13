@@ -30,7 +30,6 @@ This project demonstrates basic web development concepts such as forms, dropdown
 
 ## Project Structure
 SP-Kitchen-Paradise/
-│
 ├── index.html # Main HTML file
 ├── style.css # CSS styling
 ├── script.js # JavaScript functionality
