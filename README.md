@@ -7,7 +7,6 @@ It allows users to:
 - View the price of the selected dish
 - Confirm orders with a stylish popup notification
 
-This project demonstrates basic web development concepts such as forms, dropdown menus, DOM manipulation, and dynamic notifications.
 ---
 
 ## Features
