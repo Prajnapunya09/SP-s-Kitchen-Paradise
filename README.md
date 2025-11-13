@@ -24,7 +24,7 @@ This project demonstrates basic web development concepts such as forms, dropdown
 ## Technologies Used
 - **HTML5** – Structure of the webpage  
 - **CSS3** – Styling, responsive layout, and notifications  
-- **JavaScript (Vanilla JS)** – DOM manipulation, form handling, popup notifications
+- **JavaScript** – DOM manipulation, form handling, popup notifications
 
 ---
 
