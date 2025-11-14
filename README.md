@@ -9,6 +9,16 @@ It allows users to:
 
 ---
 
+## Project Demo
+
+### 🖼️ Output Image  
+[Click to View Image](https://github.com/Prajnapunya09/SP-s-Kitchen-Paradise/blob/main/SP's%20Kitchen%20Paradise%20output%20img.png)
+
+### 🎥 Output Video  
+[Click to Watch Video](https://github.com/Prajnapunya09/SP-s-Kitchen-Paradise/blob/main/SP%20Kitchen's%20Paradise.mp4)
+
+---
+
 ## Features
 - **Interactive Menu:** Select items from categories like South Indian, North Indian, and Desserts.  
 - **Price Display:** Displays the price immediately when an item is selected.  
@@ -27,8 +37,3 @@ It allows users to:
 ---
 
 ## Project Structure
-SP-Kitchen-Paradise/
-├── index.html # Main HTML file
-├── style.css # CSS styling
-├── script.js # JavaScript functionality
-└── README.md # Project documentation
