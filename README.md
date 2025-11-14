@@ -12,7 +12,7 @@ It allows users to:
 ## Project Demo
 
 ### 🖼️ Output Image  
-[Click to View Image](https://github.com/Prajnapunya09/SP-s-Kitchen-Paradise/blob/main/SP's%20Kitchen%20Paradise%20output%20img.png)
+![Project Output](https://raw.githubusercontent.com/Prajnapunya09/SP-s-Kitchen-Paradise/main/SP's%20Kitchen%20Paradise%20output%20img.png)
 
 ### 🎥 Output Video  
 [Click to Watch Video](https://github.com/Prajnapunya09/SP-s-Kitchen-Paradise/blob/main/SP%20Kitchen's%20Paradise.mp4)
