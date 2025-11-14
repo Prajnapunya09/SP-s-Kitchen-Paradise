@@ -37,3 +37,8 @@ It allows users to:
 ---
 
 ## Project Structure
+SP-Kitchen-Paradise/
+├── index.html # Main HTML file
+├── style.css # CSS styling
+├── script.js # JavaScript functionality
+└── README.md # Project documentation
