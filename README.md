@@ -1,44 +1,36 @@
-# SP's Kitchen Paradise
+# 🍽️ SP's Kitchen Paradise
 
-## Overview
-**SP's Kitchen Paradise** is a simple, interactive web-based restaurant menu project built with **HTML, CSS, and JavaScript**.  
-It allows users to:
-- Select food items from the menu
-- View the price of the selected dish
-- Confirm orders with a stylish popup notification
+## ⭐ Overview  
+**SP's Kitchen Paradise** is a simple and interactive **restaurant menu web app** built using **HTML, CSS, and JavaScript**.  
+Users can explore dishes, view prices instantly, and confirm their order through a smooth popup notification.
 
 ---
 
-## Project Demo
+## 📸 Project Demo
 
 ### 🖼️ Output Image  
 ![Project Output](https://raw.githubusercontent.com/Prajnapunya09/SP-s-Kitchen-Paradise/main/SP's%20Kitchen%20Paradise%20output%20img.png)
 
 ### 🎥 Output Video  
-[Click to Watch Video](https://github.com/Prajnapunya09/SP-s-Kitchen-Paradise/blob/main/SP%20Kitchen's%20Paradise.mp4)
+👉 [**Click here to watch the demo video**](https://github.com/Prajnapunya09/SP-s-Kitchen-Paradise/blob/main/SP%20Kitchen's%20Paradise.mp4)
 
 ---
 
-## Features
-- **Interactive Menu:** Select items from categories like South Indian, North Indian, and Desserts.  
-- **Price Display:** Displays the price immediately when an item is selected.  
-- **Order Confirmation:** Confirms the order with a clean popup notification.  
-- **Reset Functionality:** Clears the selection and price display.  
-- **Responsive Design:** Works on both desktop and mobile screens.  
-- **Marquee Slider:** Sliding image gallery to showcase dishes.
+## ✨ Features
+- 🍛 **Interactive Menu:** Select dishes from multiple categories.  
+- 💰 **Instant Price Display:** Price appears immediately after selection.  
+- ✅ **Order Confirmation:** Displays a stylish popup notification.  
+- 🔄 **Reset Option:** Clears selected items and price.  
+- 📱 **Responsive Design:** Fully mobile-friendly layout.  
+- 🖼️ **Marquee Slider:** Auto-scrolling image gallery of dishes.
 
 ---
 
-## Technologies Used
-- **HTML5** – Structure of the webpage  
-- **CSS3** – Styling, responsive layout, and notifications  
-- **JavaScript** – DOM manipulation, form handling, popup notifications
+## 🛠️ Technologies Used
+- 🌐 **HTML5** – Webpage structure  
+- 🎨 **CSS3** – Styling, layout, animations  
+- ⚙️ **JavaScript (ES6)** – Interactivity & popup logic  
 
 ---
 
-## Project Structure
-SP-Kitchen-Paradise/
-├── index.html # Main HTML file
-├── style.css # CSS styling
-├── script.js # JavaScript functionality
-└── README.md # Project documentation
+## 📁 Project Structure
