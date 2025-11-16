@@ -34,3 +34,13 @@ Users can explore dishes, view prices instantly, and confirm their order through
 ---
 
 ## 📁 Project Structure
+
+
+
+
+
+SP-Kitchen-Paradise/
+│── index.html # Main webpage
+│── style.css # All styling
+│── script.js # Menu logic & popup functionality
+└── README.md # Project documentation
