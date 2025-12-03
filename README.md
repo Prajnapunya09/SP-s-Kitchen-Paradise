@@ -29,7 +29,7 @@ Users can explore dishes, view prices instantly, and confirm their order through
 ## 🛠️ Technologies Used
 - 🌐 **HTML5** – Webpage structure  
 - 🎨 **CSS3** – Styling, layout, animations  
-- ⚙️ **JavaScript (ES6)** – Interactivity & popup logic  
+- ⚙️ **JavaScript** – Interactivity & popup logic  
 
 ---
 
